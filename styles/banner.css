@@ -1,0 +1,5 @@
+.banner {
+    height: 428px;
+    width: 215px;
+    background-color: var(--azul-degrade);
+}
